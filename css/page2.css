@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background:url(/imgs/pexels-mahima-518693-1250260.jpg) ;
+    background-size: cover;
+    background-repeat:repeat-y;
+    background-attachment:scroll;
+}
+
+.content-container a{
+    display: inline;
+    color: azure;
+    text-decoration: none;
+}
+.content-container{
+    text-align: center;
+    font-size: large;    
+    color: rgb(255, 255, 255);
+    font-family: "Cormorant Garamond", serif;
+    padding: 20px;
+    max-width: 500px;
+    text-align: justify; 
+    font-weight: 1000;
+    font-style: normal;
+    margin: auto;
+}
+.footer{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.card-group{
+    text-align: center;
+    font-size: large;
+    font-family:serif;
+}
+.card-body:hover{
+    background-color: rgb(79, 182, 79);
+    transition: background-color 0.3s ease;
+}

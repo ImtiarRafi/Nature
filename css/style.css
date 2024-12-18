@@ -1,0 +1,191 @@
+.head1{
+    display: inline;
+    padding: 5px;
+    margin: 0% 43%;
+}
+.head1 a{
+    color: beige;
+    text-decoration: none;
+}
+body{
+    color: rgb(248, 242, 242,0.7);
+    font-size:medium;
+    background:url("/imgs/pexels-oleksandr-tiupa-53788-192136.jpg");
+    background-size: contain;
+    background-repeat:repeat-y;
+    background-attachment:scroll;
+}
+
+.header a{
+    display: inline;
+    color: azure;
+    text-decoration: none;
+    margin: 25px 30px 30px 130px;
+}
+.header{
+    text-align: center;
+    font-size: large;    
+    color: rgb(255, 255, 255);
+    font-family: "Cormorant Garamond", serif;
+    padding: 20px;
+    max-width: 500px;
+    text-align: justify; 
+    font-weight: 1000;
+    font-style: normal;
+    margin: auto;
+}
+.header2{
+    display: inline;
+    text-align: center;
+}
+.header2 a{
+    color: whitesmoke;
+    font-family: "Cormorant Garamond", serif;
+    text-decoration: none;
+}
+#page2{
+    display: inline;
+    border-radius: 20px 20px;
+    padding: 10px 10px;
+}
+/* #page2:link{ */
+    /* background-color: lightyellow; */
+/* } */
+/* #page2:visited{ */
+    /* background-color: rgb(125, 148, 78); */
+/* } */
+#page2:hover{
+    background-color: rgb(43, 78, 90);
+}
+#page2:checked{
+    background-color: rgb(233, 233, 233);
+}
+
+.header3{
+    text-align: center;
+}
+.header3 a{
+    color: aliceblue;
+    font-family: "Cormorant Garamond", serif;
+    text-decoration: none;
+
+}
+
+#page3{
+    display: inline;
+    padding: 10px 10px;
+    font-weight: 1000;
+    border-radius: 12px 14px;
+}
+#page3:hover{
+    background-color: rgb(43, 78, 90);
+}
+.header4{
+    text-align: center;
+}
+.header4 a{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+#page4{
+    display: inline;
+    /* background-color: rgb(125, 148, 78); */
+    padding: 10px 10px;
+    font-weight: 300;
+    border-radius: 12px 14px;
+}
+#page4:hover{
+    background-color: rgb(43, 78, 90);
+}
+
+
+.header5{
+    text-align: center;
+}
+
+.header5 a{
+    color: aliceblue;
+    font-family: serif;
+    text-decoration: none;
+
+}
+
+#page5{
+    display: inline;
+    /* background-color: rgb(125, 148, 78); */
+    padding: 10px 10px;
+    font-family: serif;
+    font-weight: 300;
+    border-radius: 12px 14px;
+}
+
+#page5:hover{
+    background-color: rgb(43, 78, 90);
+}
+
+.header6{
+    text-align: center;
+}
+
+.header6 a{
+    color: aliceblue;
+    font-family: serif;
+    text-decoration: none;
+
+}
+
+#page6{
+    display: inline;
+    /* background-color: rgb(125, 148, 78); */
+    padding: 10px 10px;
+    font-family: serif;
+    font-weight: 300;
+    border-radius: 12px 14px;
+}
+
+#page6:hover{
+    background-color: rgb(43, 78, 90);
+}
+
+.header7{
+    text-align: center;
+}
+
+.header7 a{
+    color: aliceblue;
+    font-family: serif;
+    text-decoration: none;
+
+}
+
+#page7{
+    display: inline;
+    /* background-color: rgb(125, 148, 78); */
+    padding: 10px 10px;
+    font-family: serif;
+    font-weight: 300;
+    border-radius: 12px 14px;
+}
+
+#page7:hover{
+    background-color: rgb(43, 78, 90);
+}
+
+.lastheader{
+    text-align: center;
+    font-size: large;    
+    color: whitesmoke;
+    font-family: "Cormorant Garamond", serif;
+    padding: 20px;
+    max-width: 500px;
+    text-align: justify; 
+    font-weight: 300;
+    font-style: normal;
+    margin: auto;
+}
+.footer{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
