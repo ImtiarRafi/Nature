@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: rgb(9, 26, 1);
+    background: url(/imgs/earth.jpg);
+    background-size: cover;
+    background-repeat:repeat-y;
+    background-attachment:scroll;
+}
+.content-container a{
+    display: inline;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.content-container{ 
+    color: rgb(255, 255, 255);
+    font-family: "Cormorant Garamond";
+    max-width: 700px;
+    text-align: justify; 
+    margin: auto;
+}
+.content-container a h1{
+    text-align: center;
+}
+p{
+    font-family: "Cormorant Garamond";
+}
+h2{
+    font-family: "Cormorant Garamond";
+}
+
+.container-conclusion{
+    max-width: 700px;
+    margin: auto;
+}
+.container-conclusion p{
+    color: rgb(255, 255, 255);
+    font-family: "Cormorant Garamond";
+    text-align: justify;
+}
+footer{
+    color: rgb(255, 255, 255);
+}
