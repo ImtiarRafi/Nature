@@ -1,0 +1,43 @@
+body{
+    background: url(/imgs/fire.jpg);
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.content{
+    max-width: 700px;
+    margin: auto;
+}
+.content a{
+    text-align: center;
+    text-decoration: double;
+    color: aliceblue;
+}
+.content p{
+    color: aliceblue;
+    text-align: justify;
+    font-family: "Cormorant Garamond";
+    font-weight:700;
+}
+.col-md-8 h2{
+    color: aliceblue;
+    text-align: center;
+    font-family: "Cormorant Garamond";
+}
+.col-md-8 p{
+    color: aliceblue;
+    text-align: justify;
+    font-family: "Cormorant Garamond";
+}
+
+.conclusion{
+    color: aliceblue;
+    max-width: 700px;
+    text-align: justify;
+    margin: auto;
+}
+
+.footer{
+    text-align: center;
+    color: aliceblue;
+}

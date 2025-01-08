@@ -1,0 +1,44 @@
+body{
+    background: url(/imgs/Dark\ water.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.content{
+    max-width: 700px;
+    margin: auto;
+}
+.content a{
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+}
+.content p{
+    text-align: justify;
+    color: aliceblue;
+    font-family: "Cormorant Garamond";
+}
+.container p{
+    color: aliceblue;  
+    text-align: justify;
+    font-family: "Cormorant Garamond";
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+.conclusion{
+    max-width: 700px;
+    margin: auto;
+    font-family: "Cormorant Garamond";
+}
+.conclusion p{
+    color: aliceblue;
+    text-align: justify;
+}
+
+.footer{
+    text-align: center;
+    color: aliceblue;
+}

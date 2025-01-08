@@ -11,18 +11,29 @@ body{
     color: azure;
     text-decoration: none;
 }
-.content-container{
-    text-align: center;
+.content-container p{
     font-size: large;    
     color: rgb(255, 255, 255);
     font-family: "Cormorant Garamond", serif;
     padding: 20px;
-    max-width: 500px;
+    max-width: 800px;
     text-align: justify; 
     font-weight: 1000;
     font-style: normal;
     margin: auto;
 }
+
+.container-conclusion{
+    color: rgb(255, 255, 255);
+    max-width: 800px;
+    text-align: justify;
+    margin: auto;
+    font-family: "Cormorant Garamond";
+    padding: 20px;
+    font-size: large; 
+    font-weight: 1000;
+}
+
 .footer{
     text-align: center;
     color: rgb(255, 255, 255);
