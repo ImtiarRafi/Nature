@@ -1,0 +1,48 @@
+body{
+    background: url(/imgs/aquatic_background.jpg);
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    background-size:cover;
+}
+.content{
+    max-width: 700px;
+    margin: auto;
+}
+.content a{
+    text-align: center;
+    text-decoration: double;
+    color: rgb(255, 255, 255);
+}
+.content p{
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    font-family: "Cormorant Garamond";
+    font-weight:700;
+}
+.col-md-8 h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Cormorant Garamond";
+}
+.col-md-8 p{
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    font-family: "Cormorant Garamond";
+}
+.col-md-8 h4{
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    color: aliceblue;
+}
+.conclusion{
+    color: aliceblue;
+    max-width: 700px;
+    text-align: justify;
+    margin: auto;
+    font-family: "Cormorant Garamond";
+}
+
+.footer{
+    text-align: center;
+    color: aliceblue;
+}
